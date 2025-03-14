@@ -5,3 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 starrocks/allin1-ubuntu:3.3-latest
+mzz2017/v2raya
