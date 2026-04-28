@@ -1,2 +1,3 @@
 amazoncorretto:17
 projectdiscovery/nuclei:latest
+projectdiscovery/wappalyzergo:latest
